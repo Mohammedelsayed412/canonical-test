@@ -2,7 +2,7 @@
   "name": "create-a-react-app-with-typescript-and-webpack",
   "version": "1.0.0",
   "description": "Canonical-take-home-exam",
-  "homepage": "https://MohammedAbdelraoof.github.io/canonical-test",
+  "homepage": "https://Mohammedelsayed412.github.io/canonical-test",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open --hot --config webpack.dev.js",
