@@ -3,10 +3,10 @@ import './App.scss'
 import BlogsController from './components/Blogs/blogsController'
 
 function App() {
-  
+
   return (
     <div className="App">
-      <BlogsController/>
+      <BlogsController />
     </div>
   )
 }

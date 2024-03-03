@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import IBlogData from "../../Interfaces/IBlogData";
 import { blogsDataMap, fetchBlogsData } from "../../sevices/blogsService";
 import BlogsView from "./blogsView";
+import './blogs.scss'
 
 const BlogsController = () => {
   const [blogsData, setBlogsData] = useState<IBlogData[]>([]);
